@@ -8,7 +8,7 @@ Spark DataFrames and Spark SQL to do the analysis.
 ## Queries
 
 ### Spark SQL
-⋅⋅* Ratings for each book
+* Ratings for each book
 ⋅⋅* Books with Maximum versions
 ⋅⋅* Publishers with Highest no of Books released
 ⋅⋅* Publishers with Highest Average Ratings
