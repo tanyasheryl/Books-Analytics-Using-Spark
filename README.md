@@ -9,19 +9,19 @@ Spark DataFrames and Spark SQL to do the analysis.
 
 ### Spark SQL
 * Ratings for each book
-⋅⋅* Books with Maximum versions
-⋅⋅* Publishers with Highest no of Books released
-⋅⋅* Publishers with Highest Average Ratings
-⋅⋅* Publishers with Highest Total Ratings
-⋅⋅* Authors with Highest no of books
+* Books with Maximum versions
+* Publishers with Highest no of Books released
+* Publishers with Highest Average Ratings
+* Publishers with Highest Total Ratings
+* Authors with Highest no of books
 
 ### Spark DataFrames
-⋅⋅* Highest number of books released per year 
-⋅⋅* List of recently published books
-⋅⋅* List of oldest published books
-⋅⋅* Most Popular Books
-⋅⋅* Total Rating for the Books
-⋅⋅* Average Ratings for the Books
+* Highest number of books released per year 
+* List of recently published books
+* List of oldest published books
+* Most Popular Books
+* Total Rating for the Books
+* Average Ratings for the Books
 		  
 ## DataSet
 
